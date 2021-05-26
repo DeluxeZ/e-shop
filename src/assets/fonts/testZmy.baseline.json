@@ -1,0 +1,23 @@
+{
+   "font": "iconfont",
+   "glyphs": [
+      {"glyph-name": "icon-test-chukuguanli", "unicode": "&#xe000;"},
+      {"glyph-name": "icon-test-jichuyanfa", "unicode": "&#xe001;"},
+      {"glyph-name": "icon-test-jingyingfuneng", "unicode": "&#xe002;"},
+      {"glyph-name": "icon-test-kucunguanli", "unicode": "&#xe003;"},
+      {"glyph-name": "icon-test-kuneiguanli", "unicode": "&#xe004;"},
+      {"glyph-name": "icon-test-lianzhengjubao", "unicode": "&#xe005;"},
+      {"glyph-name": "icon-test-renyuanguanli", "unicode": "&#xe006;"},
+      {"glyph-name": "icon-test-rukuguanli", "unicode": "&#xe007;"},
+      {"glyph-name": "icon-test-shangpinguanli", "unicode": "&#xe008;"},
+      {"glyph-name": "icon-test-shouye", "unicode": "&#xe009;"},
+      {"glyph-name": "icon-test-shujuchaxun", "unicode": "&#xe00a;"},
+      {"glyph-name": "icon-test-shujukanban", "unicode": "&#xe00b;"},
+      {"glyph-name": "icon-test-wentifankui", "unicode": "&#xe00c;"},
+      {"glyph-name": "icon-test-wuziguanli", "unicode": "&#xe00d;"},
+      {"glyph-name": "icon-test-yichangguanli", "unicode": "&#xe00e;"},
+      {"glyph-name": "icon-test-yunshuguanli", "unicode": "&#xe00f;"},
+      {"glyph-name": "icon-test-user", "unicode": "&#xe010;"},
+      {"glyph-name": "icon-test-key", "unicode": "&#xe011;"}
+   ]
+}
